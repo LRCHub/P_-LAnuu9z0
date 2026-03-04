@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "lllトゥルティンアンテナlll / Reol(れをる) Cover",
+  "base_artist": "Reol",
+  "createdAt": "2026-03-04T13:06:42.276830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "lllトゥルティンアンテナlll",
+      "artist": "レタスP feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/01_lllトゥルティンアンテナlll_レタスP_feat._鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lllトゥルティンアンテナlll",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/pl_01_lllトゥルティンアンテナlll_れをる.txt"
+    }
+  ]
+}
